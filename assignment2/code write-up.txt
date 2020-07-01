@@ -1,0 +1,3 @@
+We see that some words that you would expect to be close are in fact close (woman and female)
+but others aren't (man and male). The global structure seems to make some sense (rain, brilliant
+and sweet are together).
